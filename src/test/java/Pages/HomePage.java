@@ -74,12 +74,12 @@ public class HomePage {
         WebElement element = driver.findElement(nextButtonHomepage);
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", element);
         element.click();
-        Thread.sleep(10000);
+        Thread.sleep(12000);
 
         WebElement elmnt = driver.findElement(nextButtonHomepage);
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", elmnt);
         elmnt.click();
-        Thread.sleep(10000);
+        Thread.sleep(12000);
 
 //        Thread.sleep(3000);
 
