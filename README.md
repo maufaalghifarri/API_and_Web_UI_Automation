@@ -9,6 +9,10 @@
 - Testing Framework = JUnit
 - Buil Automation = Gradle
 
+URL yang digunakan untuk melakukan Automation Testing:
+1. Web UI Test = https://www.demoblaze.com/
+2. API Test = https://dummyapi.io/
+   
 Cara menjalankan test:
 1. Menjalankan  Web UI test dengan membuka Terminal, lalu ketik "./gradlew webTest"
 2. Menjalankan  API test dengan membuka Terminal, lalu ketik "./gradlew apiTest"
