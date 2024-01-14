@@ -7,7 +7,7 @@
 - Automation Framework = Cucumber
 - Bahasa testing = Gherkin syntax
 - Testing Framework = JUnit
-- Buil Automation = Gradle
+- Build Automation = Gradle
 
 URL yang digunakan untuk melakukan Automation Testing:
 1. Web UI Test = https://www.demoblaze.com/
