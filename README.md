@@ -1,4 +1,4 @@
-#Final Project
+API and Web UI Automation
 
 - Pada project ini dibuat 2 Automation testing, yakni Web UI Automation Testing dan API Automation Testing.
 - Web UI Testing memiliki 23 Skenario di dalamnya
