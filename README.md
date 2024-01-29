@@ -4,8 +4,7 @@ API and Web UI Automation
 - Web UI Testing memiliki 23 Skenario di dalamnya
 - API Testing memiliki 11 skenario di dalamnya
 - Selenium digunakan untuk Web UI Testing
-- Automation Framework = Cucumber
-- Bahasa testing = Gherkin syntax
+- BDD Framework = Cucumber
 - Testing Framework = JUnit
 - Build Automation = Gradle
 
