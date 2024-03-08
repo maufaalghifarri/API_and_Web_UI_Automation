@@ -1,23 +1,21 @@
 API and Web UI Automation
 
-- Pada project ini dibuat 2 Automation testing, yakni Web UI Automation Testing dan API Automation Testing.
-- Web UI Testing memiliki 23 Skenario di dalamnya
-- API Testing memiliki 11 skenario di dalamnya
-- Selenium digunakan untuk Web UI Testing
-- BDD Framework = Cucumber
-- Testing Framework = JUnit
-- Build Automation = Gradle
+In this project, 2 automation testing suites were developed: Web UI Automation Testing and API Automation Testing.
 
-URL yang digunakan untuk melakukan Automation Testing:
-1. Web UI Test = https://www.demoblaze.com/
-2. API Test = https://dummyapi.io/
-   
-Cara menjalankan test:
-1. Menjalankan  Web UI test dengan membuka Terminal, lalu ketik "./gradlew webTest"
-2. Menjalankan  API test dengan membuka Terminal, lalu ketik "./gradlew apiTest"
+Web UI Testing comprises 23 scenarios, while API Testing comprises 11 scenarios. Selenium was utilized for Web UI Testing, with BDD Framework being Cucumber, Testing Framework being JUnit, and Build Automation being Gradle.
+
+The URLs used for Automation Testing are as follows:
+
+- Web UI Test: https://www.demoblaze.com/
+- API Test: https://dummyapi.io/
+
+To execute the tests:
+
+- Run Web UI tests by opening Terminal and typing "./gradlew webTest"
+- Run API tests by opening Terminal and typing "./gradlew apiTest"
 
 
-Hasil skenario Web UI Automation Test :
+Results of Web UI Automation Testing Scenarios:
 1.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/dd3c6de7-ef39-418a-b240-a2de15151744)
 2.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/45421baa-a046-477f-acf3-a01b3b4f54cb)
 3.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/e2bcc151-fa3b-4b23-8954-d14d8dd17fe0)
@@ -43,7 +41,7 @@ Hasil skenario Web UI Automation Test :
 23.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/33832922-f7d3-4432-b148-e437dc869a33)
 
 
-Hasil skenario API Automation Test :
+Results of API Automation Testing Scenarios:
 1.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/519d05d3-36bc-46bb-9f7c-0474815dd55c)
 2.![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/f8a63c47-37f1-4d0e-a7a1-7f44a4cd141c)
 3. ![image](https://github.com/maufaalghifarri/Real_Final_Project/assets/149165218/0e192d1b-00ea-4059-930a-533a6e829690)
